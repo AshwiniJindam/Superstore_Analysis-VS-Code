@@ -42,7 +42,7 @@ A data analysis project exploring sales, profit, and performance insights from s
 
 
 ## 📝 Dataset
-
+🔗 [Superstore Dataset (Kaggle)](https://www.kaggle.com/datasets/rohanrao/superstore-data)
 Superstore dataset containing:
 - Orders, sales, profit, quantity
 - Product categories and subcategories
